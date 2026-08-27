@@ -1,0 +1,14 @@
+﻿employee_id,first_name,last_name,hire_date,department,salary,age,full_time
+101,John,Smith,4/15/22,Marketing,85000,34,TRUE
+102,Jane,Doe,8/20/21,Sales,92000,45,TRUE
+103,Peter,Jones,1/2/22,HR,71000,29,TRUE
+104,Mary,Johnson,11/10/23,Engineering,115000,38,TRUE
+105,Mike,Brown,5/30/20,sales,89000,,FALSE
+106,Susan,Davis,,Sales,95000,41,TRUE
+107,Chris,Wilson,2023-FEB-21,Marketing,,33,TRUE
+108,Laura,Taylor,9/1/21,Engineering,120000,52,
+102,Emily,White,1/15/24,Sales,91000,31,TRUE
+110,David,Miller,7/22/19,HR,68000,58,TRUE
+111,Sarah,Moore,3/12/23,Marketing,"$91,000 ",28,TRUE
+error,Kevin,Clark,2/5/24,Sales,88000,35,TRUE
+113,Brian,Hall,6/18/22,Engineering,5900000,999,TRUE

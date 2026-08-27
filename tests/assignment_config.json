@@ -1,0 +1,21 @@
+{
+  "notebooks": [
+    "notebooks/Week1_introduction_to_codespaces.ipynb",
+    "notebooks/Week2_lab1_python_pandas_guided_lab.ipynb",
+    "notebooks/Week2_assignment.ipynb"
+  ],
+  "required_files": [
+    "data/employee_data.csv"
+  ],
+  "forbidden_files": [
+    ".env"
+  ],
+  "execute_notebooks": true,
+  "requires_database": false,
+  "execution_timeout_seconds": 900,
+  "require_marked_code_outputs": true,
+  "check_markdown_placeholders": true,
+  "min_marked_code_cells": {
+    "notebooks/Week2_assignment.ipynb": 1
+  }
+}

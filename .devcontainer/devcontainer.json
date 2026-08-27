@@ -1,0 +1,19 @@
+{
+  "image": "ghcr.io/tianhaiz/ban6003-codespace:2026f",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/opt/conda/bin/python",
+        "python.terminal.activateEnvironment": true,
+        "jupyter.askForKernelRestart": false
+      }
+    }
+  },
+  "forwardPorts": [],
+  "remoteUser": "vscode"
+}
